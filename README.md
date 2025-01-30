@@ -31,10 +31,6 @@ En este proyecto, se ha desarrollado una interfaz web interactiva que presenta u
 ├── arbolDeNodosII.css  # Estilos CSS  
 └── arbolDeNodosII.js  # Lógica en JavaScript
 
-## Enlace al Demo 🚀
-
-Puedes ver el proyecto en vivo [aquí](URL_DEL_DEMO).
-
 ## Instalación 💻
 
 Para poder ver este proyecto en tu máquina local, sigue estos pasos:
